@@ -1,0 +1,143 @@
+{
+  "Crops": [
+    {
+      "name": "Banana",
+      "image": "https://gardeningdream.com/wp-content/uploads/2019/09/How-to-Grow-a-Banana-Tree-with-a-Store-Bought-Banana.png",
+      "id": "ea1c"
+    },
+    {
+      "name": "Bengal Gram (Chana)",
+      "image": "https://thumbs.dreamstime.com/b/close-up-shot-split-bengal-grams-background-sale-groceries-store-close-up-shot-split-bengal-grams-background-202600941.jpg",
+      "id": "e5a3"
+    },
+    {
+      "name": "Black Gram (Urad)",
+      "image": "https://www.organicfacts.net/wp-content/uploads/2013/06/Blackgram.jpg",
+      "id": "80c2"
+    },
+    {
+      "name": "Brinjal (Eggplant)",
+      "image": "https://www.isaaa.org/kc/cropbiotechupdate/files/images/8182020112555PM.jpg",
+      "id": "f70f"
+    },
+    {
+      "name": "Cashew",
+      "image": "https://www.agrifarming.in/wp-content/uploads/2015/03/Ready-to-market-Cashews.jpg",
+      "id": "3c2a"
+    },
+    {
+      "name": "Chilli",
+      "image": "https://kj1bcdn.b-cdn.net/media/25049/mirch.png",
+      "id": "3c03"
+    },
+    {
+      "name": "Coconut",
+      "image": "http://1.bp.blogspot.com/-tPQpdh3zDH0/UoDOAqHB2SI/AAAAAAAAAo4/FFPChvSwbWA/s1600/Coconut+Farming+Business.png",
+      "id": "6c11"
+    },
+    {
+      "name": "Cotton",
+      "image": "https://www.worldatlas.com/r/w1200/upload/20/fd/59/shutterstock-508062640.jpg",
+      "id": "0957"
+    },
+    {
+      "name": "Groundnut (Peanut)",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.CvE02-wEhs8b4ESDEVMs1AHaFj&pid=Api&P=0&h=220",
+      "id": "40eb"
+    },
+    {
+      "name": "GreenGram",
+      "image": "https://www.apnikheti.com/upload/crops/9001idea99green_gram_crop_banner.jpg",
+      "id": "ed13"
+    },
+    {
+      "name": "Lentils (Masoor Dal)",
+      "image": "https://www.apnikheti.com/upload/crops/7175idea99red_lentil_16x9.jpg",
+      "id": "6a62"
+    },
+    {
+      "name": "Lemon",
+      "image": "https://i.pinimg.com/originals/37/82/6b/37826bf4b07273e0fe28e99122179893.jpg",
+      "id": "c2bb"
+    },
+    {
+      "name": "Maize",
+      "image": "https://i0.wp.com/theagrinews.com/wp-content/uploads/2020/05/maize-scaled.jpg",
+      "id": "d844"
+    },
+    {
+      "name": "Mango",
+      "image": "https://4.bp.blogspot.com/-fiU1PIqnZMQ/T9c5Qzi8QbI/AAAAAAAACJM/y_Hs8LzO2JA/s1600/mango_king_of_fruits03_ripe.jpg",
+      "id": "f803"
+    },
+    {
+      "name": "Pulses (lentils, peas, beans)",
+      "image": "https://www.seed.ab.ca/wp-content/uploads/2019/04/pulses.jpg",
+      "id": "e804"
+    },
+    {
+      "name": "Red Gram (Arhar/Tur)",
+      "image": "https://5.imimg.com/data5/QU/OA/MY-43117871/red-gram-seed-1000x1000.jpg",
+      "id": "1544"
+    },
+    {
+      "name": "Rice",
+      "image": "http://www.homefamily.net/wp-content/uploads/2011/09/grains.jpg",
+      "id": "5203"
+    },
+    {
+      "name": "Sesame (Til)",
+      "image": "https://www.epicgardening.com/wp-content/uploads/2021/06/Sesame-seeds.jpg",
+      "id": "f1a3"
+    },
+    {
+      "name": "Sorghum (Jowar)",
+      "image": "http://www.feedipedia.org/sites/default/files/images/sorghum_grain_01_0.jpg",
+      "id": "244a"
+    },
+    {
+      "name": "Sugarcane",
+      "image": "https://m.media-amazon.com/images/I/71RNYWyW8XL._AC_SX679_.jpg",
+      "id": "6534"
+    },
+    {
+      "name": "Sunflower",
+      "image": "http://media-cache-ak0.pinimg.com/originals/62/9e/cd/629ecdf8d58313aabf226695791bcbcc.jpg",
+      "id": "f715"
+    },
+    {
+      "name": "Tomato",
+      "image": "https://www.gardeningknowhow.com/wp-content/uploads/2021/07/tomatoes-1.jpg",
+      "id": "c5cb"
+    },
+    {
+      "name": "Turmeric",
+      "image": "http://balconygardenweb.com/wp-content/uploads/2016/04/How-To-Grow-Turmeric-3-1.jpg",
+      "id": "c778"
+    },
+    {
+      "name": "Wheat",
+      "image": "https://cdn.agdaily.com/wp-content/uploads/2016/09/wheat.jpg",
+      "id": "aed5"
+    },
+    {
+      "name": "Watermelom",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.TIDcZ8urQ8b9DSe2kirjGAHaDt&pid=Api&P=0&h=220",
+      "id": "18ba"
+    },
+    {
+      "id": "5cd1",
+      "name": "Onion",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/onion-health-benefits-1611265687.jpg?crop=0.8861673732140053xw:1xh;center,top&resize=1200:*",
+      "telugu": "onion",
+      "type": "vegetables"
+    },
+    {
+      "id": "9652",
+      "name": "potato",
+      "image": "https://www.hsph.harvard.edu/nutritionsource/wp-content/uploads/sites/30/2014/01/potatoes-411975_1280.jpg",
+      "telugu": "allluu",
+      "type": "vegetables"
+    }
+  ]
+}

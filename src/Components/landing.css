@@ -1,0 +1,72 @@
+/* App.css */
+
+.container {
+    max-width: 100%;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid black;
+    height: 100vh;
+    width: 100vw;
+    background-color: #d3f5cf;
+  }
+  
+  .Heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+    height: 60vh;
+    width: 100vw;
+  }
+  
+  .Logo {
+
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+    
+    margin-right: 20px;
+    
+  }
+  
+  h1 {
+    color: #007bff;
+    margin-bottom: 10px;
+    font-size: 80px;
+  }
+  
+  p {
+    color: #007bff;
+    font-size: 30px;
+  }
+  
+  .Category-buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .Category-buttons div {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .Category-buttons div:hover {
+    background-color: #0056b3;
+  }
+  .image{
+    border-radius: 47%;
+    height: 100%;
+    width: 100%;
+  }
